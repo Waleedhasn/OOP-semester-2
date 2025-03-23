@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\ConsoleApp1.csproj|d:\\study\\semester 2\\oop lab\\oop-semester-2\\oop project\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|d:\\study\\semester 2\\oop lab\\oop-semester-2\\oop project\\consoleapp1\\consoleapp1\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|solutionrelative:consoleapp1\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|d:\\study\\semester 2\\oop lab\\oop-semester-2\\oop project\\consoleapp1\\consoleapp1\\reviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|solutionrelative:consoleapp1\\reviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|d:\\study\\semester 2\\oop lab\\oop-semester-2\\oop project\\consoleapp1\\consoleapp1\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|solutionrelative:consoleapp1\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|d:\\study\\semester 2\\oop lab\\oop-semester-2\\oop project\\consoleapp1\\consoleapp1\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\StockManagement.csproj|solutionrelative:consoleapp1\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\ConsoleApp1.csproj|d:\\study\\semester 2\\oop lab\\oop-semester-2\\oop project\\consoleapp1\\consoleapp1\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC789350-F55C-43F2-9C8A-C7647160EDC3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\OrderManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\OrderManager.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\OrderManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\OrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:25:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewManager.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\ReviewManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ReviewManager.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\ReviewManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\ReviewManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:25:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ProductManager.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\ProductManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:21:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataLayer.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\DataLayer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataLayer.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\DataLayer.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:57:25.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\UserManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UserManager.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\UserManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\UserManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:56:47.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\OOP Project\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAswJABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:35:54.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
