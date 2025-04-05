@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|solutionrelative:game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|solutionrelative:game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|d:\\study\\semester 2\\oop lab\\oop-semester-2\\week 2\\game\\game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|solutionrelative:game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDF2CA4-D5E5-456C-BBE0-BCF60B18615A}|game\\game.csproj|solutionrelative:game\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\enemy.cs",
+              "RelativeDocumentMoniker": "game\\enemy.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\enemy.cs",
+              "RelativeToolTip": "game\\enemy.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:17:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\player.cs",
+              "RelativeDocumentMoniker": "game\\player.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\player.cs",
+              "RelativeToolTip": "game\\player.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:14:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "body.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\body.cs",
+              "RelativeDocumentMoniker": "game\\body.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\body.cs",
+              "RelativeToolTip": "game\\body.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:07:57.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cs",
+              "DocumentMoniker": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\game.cs",
+              "RelativeDocumentMoniker": "game\\game.cs",
+              "ToolTip": "D:\\STUDY\\semester 2\\OOP lab\\OOP-semester-2\\week 2\\game\\game\\game.cs",
+              "RelativeToolTip": "game\\game.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:21:35.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
