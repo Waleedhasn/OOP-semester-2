@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\week 8\\challenge04\\challenge04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|solutionrelative:challenge04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\week 8\\challenge04\\challenge04\\salaryaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|solutionrelative:challenge04\\salaryaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\week 8\\challenge04\\challenge04\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|solutionrelative:challenge04\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\week 8\\challenge04\\challenge04\\studentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1708B45A-C395-4F2C-8026-125839AFE725}|Challenge04\\Challenge04.csproj|solutionrelative:challenge04\\studentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\SalaryAccount.cs",
+              "RelativeDocumentMoniker": "Challenge04\\SalaryAccount.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\SalaryAccount.cs",
+              "RelativeToolTip": "Challenge04\\SalaryAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:24:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\StudentAccount.cs",
+              "RelativeDocumentMoniker": "Challenge04\\StudentAccount.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\StudentAccount.cs",
+              "RelativeToolTip": "Challenge04\\StudentAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:23:36.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\Account.cs",
+              "RelativeDocumentMoniker": "Challenge04\\Account.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\Account.cs",
+              "RelativeToolTip": "Challenge04\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:23:06.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge04\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\week 8\\Challenge04\\Challenge04\\Program.cs",
+              "RelativeToolTip": "Challenge04\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:20:08.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

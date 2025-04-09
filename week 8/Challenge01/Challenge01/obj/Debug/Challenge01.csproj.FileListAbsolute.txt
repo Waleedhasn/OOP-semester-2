@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\Challenge01\Challenge01\bin\Debug\Challenge01.exe.config
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\Challenge01\Challenge01\bin\Debug\Challenge01.exe
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\Challenge01\Challenge01\bin\Debug\Challenge01.pdb
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\Challenge01\Challenge01\obj\Debug\Challenge01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\Challenge01\Challenge01\obj\Debug\Challenge01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\Challenge01\Challenge01\obj\Debug\Challenge01.exe
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\Challenge01\Challenge01\obj\Debug\Challenge01.pdb
