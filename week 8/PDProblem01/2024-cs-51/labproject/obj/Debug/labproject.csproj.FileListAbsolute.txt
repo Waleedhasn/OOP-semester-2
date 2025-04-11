@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\PDProblem01\2024-cs-51\labproject\obj\Debug\labproject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\PDProblem01\2024-cs-51\labproject\obj\Debug\labproject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\PDProblem01\2024-cs-51\labproject\bin\Debug\labproject.exe.config
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\PDProblem01\2024-cs-51\labproject\bin\Debug\labproject.exe
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\PDProblem01\2024-cs-51\labproject\bin\Debug\labproject.pdb
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\PDProblem01\2024-cs-51\labproject\obj\Debug\labproject.exe
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\week 8\PDProblem01\2024-cs-51\labproject\obj\Debug\labproject.pdb
