@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\bin\Debug\OOP Project.exe.config
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\bin\Debug\OOP Project.exe
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\bin\Debug\OOP Project.pdb
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\obj\Debug\OOP Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\obj\Debug\OOP_Project.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\obj\Debug\OOP Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\obj\Debug\OOP Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\obj\Debug\OOP Project.exe
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\obj\Debug\OOP Project.pdb
+C:\Users\Lenovo\OneDrive\Documents\Study\Semester 2\OOP Lab\Business app\OOP Project\OOP Project\obj\Debug\OOP_Project.Login.resources

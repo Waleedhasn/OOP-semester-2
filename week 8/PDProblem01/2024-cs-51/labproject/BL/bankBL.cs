@@ -1,14 +1,12 @@
-﻿
+﻿using System;
 using BankAccountManagementSystem.DL;
 using labproject.DL;
-using System;
 
 namespace BankAccountManagementSystem.BL
 {
     public class BankAccountService
     {
         private readonly Bank _bank;
-        private object ex;
 
         public BankAccountService(Bank bank)
         {
@@ -21,11 +19,11 @@ namespace BankAccountManagementSystem.BL
             {
                 var account = new BankAccount(accountNumber, ownerName, initialDeposit);
                 _bank.AddAccount(account);
-                return $"Account created successfully.\n{account.GetAccountDetails()}";
+                return $"✅ Account created successfully!\n{account.GetAccountDetails()}";
             }
             catch (Exception ex)
             {
-                return $"Error creating account: {ex.Message}";
+                return $"❌ Error: {ex.Message}";
             }
         }
 
@@ -35,11 +33,11 @@ namespace BankAccountManagementSystem.BL
             {
                 var account = _bank.GetAccount(accountNumber);
                 account.Deposit(amount);
-                return $"Deposit successful.\n{account.GetAccountDetails()}";
+                return $"✅ Deposit successful!\n{account.GetAccountDetails()}";
             }
             catch (Exception ex)
             {
-                return $"Error during deposit: {ex.Message}";
+                return $"❌ Error: {ex.Message}";
             }
         }
 
@@ -49,11 +47,11 @@ namespace BankAccountManagementSystem.BL
             {
                 var account = _bank.GetAccount(accountNumber);
                 account.Withdraw(amount);
-                return $"Withdrawal successful.\n{account.GetAccountDetails()}";
+                return $"✅ Withdrawal successful!\n{account.GetAccountDetails()}";
             }
             catch (Exception ex)
             {
-                return $"Error during withdrawal: {ex.Message}";
+                return $"❌ Error: {ex.Message}";
             }
         }
 
@@ -61,16 +59,12 @@ namespace BankAccountManagementSystem.BL
         {
             try
             {
-                _bank.Transfer(fromAccount, toAccount, amount);
-                return $"Transfer of {amount:C} completed successfully.";
-                if(fromAccount == toAccount)
-                {
-                    return $"Error during transfer: {ex.Message}";
-                }
+                _bank.TransferFunds(fromAccount, toAccount, amount);
+                return $"✅ Transfer of {amount:C} completed successfully!";
             }
             catch (Exception ex)
             {
-                return $"Error during transfer: {ex.Message}";
+                return $"❌ Error: {ex.Message}";
             }
         }
 
@@ -82,7 +76,7 @@ namespace BankAccountManagementSystem.BL
             }
             catch (Exception ex)
             {
-                return $"Error retrieving account: {ex.Message}";
+                return $"❌ Error: {ex.Message}";
             }
         }
     }
