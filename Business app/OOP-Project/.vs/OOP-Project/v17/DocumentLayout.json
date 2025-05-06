@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\customer\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\customer\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\admin\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\customer\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\customer\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\admin\\adminproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\admin\\adminproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\customer\\customerproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\customer\\customerproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\admin\\adminproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\admin\\adminproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|c:\\users\\lenovo\\onedrive\\documents\\study\\semester 2\\oop lab\\business app\\oop-project\\oop-project\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08401050-4925-4FFA-B323-AB0829346249}|OOP-Project\\OOP-Project.csproj|solutionrelative:oop-project\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "OOP-Project\\UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:53:31.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Login.cs",
+              "RelativeToolTip": "OOP-Project\\UI\\Login.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:33:02.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Customer\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Customer\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Customer\\CustomerDashboard.cs",
+              "RelativeToolTip": "OOP-Project\\UI\\Customer\\CustomerDashboard.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:00:23.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Admin\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Admin\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Admin\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "OOP-Project\\UI\\Admin\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:36:44.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Customer\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Customer\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Customer\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "OOP-Project\\UI\\Customer\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:37:08.62Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminProducts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Admin\\adminProducts.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Admin\\adminProducts.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Admin\\adminProducts.cs [Design]",
+              "RelativeToolTip": "OOP-Project\\UI\\Admin\\adminProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:24:54.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "customerProducts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Customer\\customerProducts.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Customer\\customerProducts.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Customer\\customerProducts.cs [Design]",
+              "RelativeToolTip": "OOP-Project\\UI\\Customer\\customerProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:59:30.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Admin\\adminProducts.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\Admin\\adminProducts.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\Admin\\adminProducts.cs",
+              "RelativeToolTip": "OOP-Project\\UI\\Admin\\adminProducts.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:45:44.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\SignUp.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\SignUp.cs",
+              "RelativeToolTip": "OOP-Project\\UI\\SignUp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:35:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\SignUp.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\UI\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\UI\\SignUp.cs [Design]",
+              "RelativeToolTip": "OOP-Project\\UI\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:33:46.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\Program.cs",
+              "RelativeDocumentMoniker": "OOP-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\Study\\Semester 2\\OOP Lab\\Business app\\OOP-Project\\OOP-Project\\Program.cs",
+              "RelativeToolTip": "OOP-Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:39:04.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
