@@ -15,7 +15,7 @@ namespace OOP_Project.UI
     {
         public CustomerDashboard()
         {
-            InitializeComponent();
+            InitializeComponent();   
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -56,6 +56,34 @@ namespace OOP_Project.UI
         private void button7_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            addReviews addReviews = new addReviews();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(addReviews);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            checkout checkout = new checkout();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(checkout);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            customerHome customerHome = new customerHome();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(customerHome);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            login.Show();
+            this.Hide();
         }
     }
 }

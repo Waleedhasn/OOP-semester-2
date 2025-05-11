@@ -62,5 +62,40 @@ namespace OOP_Project.UI
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            login.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            adminHome adminHome = new adminHome();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(adminHome);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Stock stock = new Stock();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(stock);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            viewReviews viewReviews = new viewReviews();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(viewReviews);
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            viewOrders viewOrders = new viewOrders();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(viewOrders);
+        }
     }
 }
